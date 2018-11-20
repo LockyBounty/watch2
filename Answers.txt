@@ -1,0 +1,47 @@
+For my watch "the good use of your fingers"
+Reinforce your knowledge in Linux environment
+
+written by Locky
+
+/*********ENVIRONMENT***********/
+
+ctrl+alt+f1 to f6
+ctrl+alt+f7
+
+ctrl+t
+
+ctrl+alt+t
+
+ctrl+shift+t
+
+/**************TERMINAL COMMANDS****************/
+
+whoami
+pwd
+ls, ls -l, ls -a, ll, dir
+cd, cd -, cd ..
+clear
+sudo su
+touch, mkdir, cp, mv, rm, rm -rf
+echo
+cat
+vi, nano, gedit
+ifconfig -a, hostname -I
+arp -a
+top, htop (not installed by default)
+kill, kill -9
+history, history -c
+
+python -m SimpleHTTPServer [port]
+python3 -m http.server [port]
+
+chmod 777, chmod 755
+man
+
+/***************SHORTCUTS***************/
+
+ctrl+shift+c
+ctrl+c, ctrl+z
+ctrl+l
+
+
